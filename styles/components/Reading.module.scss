@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.main {
+  padding: 5rem 20rem 3rem 20rem;
+  display: flex;
+}
+
+.h2 {
+  width: 19rem;
+  margin-top: 6rem;
+  white-space: nowrap;
+}
+
+.books {
+  padding: 5rem 10rem 3rem 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

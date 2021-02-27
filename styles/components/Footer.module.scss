@@ -1,0 +1,45 @@
+.footerTest {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  color: #3C3C3B;
+}
+
+.footeImages {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25rem;
+}
+
+.image {
+  margin: 0 4rem;
+  cursor: pointer;
+}
+
+.image h3 {
+  padding-left: 1rem;
+}
+
+.lineupper {
+  background-color: #E7B366;
+  height: 4px;
+  width: 481px;
+}
+
+.linelower {
+  background-color: #E7B366;
+  height: 4px;
+  width: 1240px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 5rem;
+  padding-left: 20rem;
+}

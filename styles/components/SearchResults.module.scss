@@ -1,0 +1,8 @@
+.results {
+  display: flex;
+  justify-content: flex-start;
+  // flex-wrap: wrap;
+
+  overflow: scroll;
+  overflow-y: hidden; 
+}

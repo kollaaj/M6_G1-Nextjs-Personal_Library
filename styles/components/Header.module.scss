@@ -1,0 +1,40 @@
+.header {
+  height: 5rem;
+  width: 100vw;
+  background-color: #fffffe;
+  box-shadow: 0px 4px 20px 0px #92929252;
+  z-index: 999;
+  margin-top: 0px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  height: 100%;
+  padding-top: 2rem;
+  color:  #3C3C3B;
+  margin-left: 5rem;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #212121;
+  border-bottom: 4px solid #E7B366;
+}
+
+.link:first-child {
+  padding-top: 1rem;
+  margin-left: 21.3rem;
+  margin-right: 10rem;
+}
+
+.link:first-child:hover {
+  padding-top: 1rem;
+  margin-left: 20rem;
+  margin-right: 10rem;
+  border-bottom: 0;
+}
+

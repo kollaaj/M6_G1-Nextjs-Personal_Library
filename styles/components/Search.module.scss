@@ -1,0 +1,26 @@
+.searchContainer {
+  display: flex;
+  margin-top: 2rem;
+  box-shadow: 4px 4px 40px #92929252;
+  box-shadow: -4px -4px 40px #92929252;
+  border-radius: 0.5rem;
+  position: relative;
+}
+
+.search {
+  width: 52rem;
+  height: 5rem;
+  padding-left: 6rem;
+  border-radius: 0.5rem;
+  border-style: none;
+  // background: #cece15f3;
+}
+
+.searchImg {
+  width: 6rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.7rem;
+  left: 2rem;
+}
+
