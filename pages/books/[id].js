@@ -1,9 +1,8 @@
-import Link from "next/link"
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
-import WantToReadLink from '../../components/links/WantToReadLink'
-import FinishedReadingLink from '../../components/links/FinishedReadingLink'
 import CurrentlyReadingLink from '../../components/links/CurrentlyReadingLink'
+import FinishedReadingLink from '../../components/links/FinishedReadingLink'
+import WantToReadLink from '../../components/links/WantToReadLink'
 import styles from '../../styles/components/id.module.scss'
 
 

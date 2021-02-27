@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from "next/link"
-import styles from '../../styles/components/CurrentlyReading.module.scss'
-import FinishedReadingLink from '../links/FinishedReadingLink'
 import RemoveLink from '../links/RemoveLink'
+import FinishedReadingLink from '../links/FinishedReadingLink'
+import styles from '../../styles/components/CurrentlyReading.module.scss'
 
 export default function CurrentlyReadingCard({ book, strapiId }) {
   const renderImage = () => {

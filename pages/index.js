@@ -1,10 +1,9 @@
 import { useState } from 'react'
-import SearchResults from '../components/SearchResults'
-import Search from '../components/Search'
-import Footer from '../components/Footer'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
+import Search from '../components/Search'
+import SearchResults from '../components/SearchResults'
 import styles from '../styles/Home.module.scss'
-// import "react-notification-alert/dist/animate.css";
 
 export default function Page() {
   const [searchResults, setSearchResults] = useState([])

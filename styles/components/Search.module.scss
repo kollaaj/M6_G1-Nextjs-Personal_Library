@@ -13,7 +13,8 @@
   padding-left: 6rem;
   border-radius: 0.5rem;
   border-style: none;
-  // background: #cece15f3;
+  background-color: #ffffff65;
+  backdrop-filter: blur(15px);
 }
 
 .searchImg {
@@ -22,5 +23,6 @@
   position: absolute;
   top: 1.7rem;
   left: 2rem;
+  z-index: 999;
 }
 

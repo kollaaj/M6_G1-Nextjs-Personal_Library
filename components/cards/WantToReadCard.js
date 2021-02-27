@@ -1,9 +1,9 @@
 import React from 'react'
 import Link from "next/link"
-import styles from '../../styles/components/SearchResultCard.module.scss'
-import CurrentlyReadingLink from '../links/CurrentlyReadingLink'
-import FinishedReadingLink from '../links/FinishedReadingLink'
 import RemoveLink from '../links/RemoveLink'
+import FinishedReadingLink from '../links/FinishedReadingLink'
+import CurrentlyReadingLink from '../links/CurrentlyReadingLink'
+import styles from '../../styles/components/SearchResultCard.module.scss'
 
 export default function WantToReadCard({ book, strapiId }) {
   const renderImage = () => {

@@ -5,17 +5,12 @@
   height: 100vh;
 }
 
-// .imagess {
-//   height: 200px;
-//   width: 400px;
-// }
-
 .section {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 5rem;
-  padding: 4rem 3rem 6rem;
+  padding: 5rem 3rem 10rem;
   background-image: url("../images/books2.svg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,18 +20,9 @@
   margin: 0.2rem;
 }
 
-// .test {
-//   background-color: pink;
-// }
-
 .main {
   padding: 5rem 20rem 3rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-
-// .currentlyReading {
-//   margin-top: 5rem;
-//   padding-top: 10rem;
-// }

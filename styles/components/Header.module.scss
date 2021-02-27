@@ -25,16 +25,14 @@
   border-bottom: 4px solid #E7B366;
 }
 
+
 .link:first-child {
   padding-top: 1rem;
   margin-left: 21.3rem;
   margin-right: 10rem;
+  
+  &:first-child:hover {
+    border-bottom: 0;
+  }
+  
 }
-
-.link:first-child:hover {
-  padding-top: 1rem;
-  margin-left: 20rem;
-  margin-right: 10rem;
-  border-bottom: 0;
-}
-

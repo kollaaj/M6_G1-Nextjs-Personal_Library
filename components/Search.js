@@ -1,5 +1,5 @@
-import styles from '../styles/components/Search.module.scss'
 import Image from 'next/image'
+import styles from '../styles/components/Search.module.scss'
 
 export default function Search({ setSearchResults }) {
   async function searchBooks(query) {

@@ -1,7 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-import styles from '../styles/components/Reading.module.scss'
 import WantToReadCard from '../components/cards/WantToReadCard'
+import styles from '../styles/components/Reading.module.scss'
 
 export default function WantToRead({ books }) {
   return (
