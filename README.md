@@ -1,13 +1,13 @@
 # Module 6 React Framework
 
 I made an application using the React Framework Next.js, connected it to the CMS Strapi and
-deployd it in the cloud platform Vercel.
+deployed it in the cloud platform Vercel.
 
-Link to the git repository for the strapi backend
+Link to the git repository for the Strapi backend
 > [Module 6 Strapi Library backend](https://github.com/kollaaj/Module_6_Strapi_Library_backend)
 
 ## My (not so) Private library 
-I decided to make a private library where a user could search for books via the google books api and add them to his private collection. 
+I decided to make a private library where a user could search for books via the Google books API and add them to his private collection. 
 
 There are three collection types to store the books in: 
 - want to read 
