@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Module 6 React Framework
 
-## Getting Started
+I made an application using the React Framework Next.js, connected it to the CMS Strapi and
+deployd it in the cloud platform Vercel.
 
-First, run the development server:
+Link to the git repository for the strapi backend
+[Module 6 Strapi Library backend](https://github.com/kollaaj/Module_6_Strapi_Library_backend)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## My (not so) Private library 
+I decided to make a private library where a user could search for books via the google books api and add them to his private collection. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+There are three collection types to store the books in: 
+- want to read 
+- currently reading
+- finished reading
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+In the future I would like to add:
+- a login system
+- a way to see all the books in the library on one page
+- search the library itself
+- sort by authors
+- personal reviews and favorites tags
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+[Google books api](https://developers.google.com/books/docs/overview)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Live version
+Link to the live version 
+[My private Library](https://mod-library.vercel.app/)
