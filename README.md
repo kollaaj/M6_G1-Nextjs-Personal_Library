@@ -3,7 +3,7 @@
 I made an application using the React Framework Next.js, connected it to the CMS Strapi and
 deployed it in the cloud platform Vercel.
 
-Link to the git repository for the Strapi backend
+Link to the GitHub repository for the Strapi backend
 > [Module 6 Strapi Library backend](https://github.com/kollaaj/Module_6_Strapi_Library_backend)
 
 ## My (not so) Private library 
