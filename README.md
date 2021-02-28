@@ -21,7 +21,7 @@ In the future I would like to add:
 - sort by authors
 - personal reviews and favorites tags
 
-[Google books api](https://developers.google.com/books/docs/overview)
+[Google books API](https://developers.google.com/books/docs/overview)
 
 
 ### Live version
