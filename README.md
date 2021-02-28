@@ -4,7 +4,7 @@ I made an application using the React Framework Next.js, connected it to the CMS
 deployd it in the cloud platform Vercel.
 
 Link to the git repository for the strapi backend
-[Module 6 Strapi Library backend](https://github.com/kollaaj/Module_6_Strapi_Library_backend)
+> [Module 6 Strapi Library backend](https://github.com/kollaaj/Module_6_Strapi_Library_backend)
 
 ## My (not so) Private library 
 I decided to make a private library where a user could search for books via the google books api and add them to his private collection. 
@@ -26,4 +26,4 @@ In the future I would like to add:
 
 ### Live version
 Link to the live version 
-[My private Library](https://mod-library.vercel.app/)
+> [My private Library](https://mod-library.vercel.app/)
